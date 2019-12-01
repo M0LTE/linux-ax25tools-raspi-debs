@@ -1,0 +1,3 @@
+kissattach /dev/pts/1 vhf
+kissparms -c 1 -p vhf
+ax25_call vhf m0lte m0aeu-7
